@@ -11,7 +11,7 @@
    
 ### Change the directory by running:
   
-  - $ cd my-react-form
+  - $ cd {my-react-form}
 
 ### Once the installation is complete, you can start the project by typing:
 
